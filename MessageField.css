@@ -1,0 +1,10 @@
+.MessageField{
+    border: 2px solid gray;
+    width:70%;
+}
+.Messagee{
+    height:82%;
+    background-image: url("./messback.jpg");
+    background-size: contain;
+    overflow: scroll;
+}

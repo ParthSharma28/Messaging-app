@@ -1,0 +1,8 @@
+div.Sidebar{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 30%;
+    border: 2px solid gray;
+    overflow: scroll;
+}

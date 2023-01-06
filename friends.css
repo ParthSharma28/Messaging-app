@@ -1,0 +1,13 @@
+.Friends{
+    display: flex;
+    height: 10%;
+    width: auto;
+    margin: 3px;
+    border-bottom: 2px solid gray;
+}
+img{
+    display: block;
+}
+.messinfo{
+    margin-left: 5%;
+}
